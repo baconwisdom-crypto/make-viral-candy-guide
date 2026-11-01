@@ -1,10 +1,16 @@
-# Game Guide Framework V2
+# Make Viral Candy! Wiki
 
-版本：2.0.0。独立保存于 `E:/游戏站/_framework/game-guide-framework-v2`。
+Independent English guide for Make Viral Candy! by Quez Clan. Universe 10771800287, Place 92696280499166. Canonical site: https://www.makeviralcandy.wiki/.
 
-用户游戏站的完整制作与上线流程见 [SITE-WORKFLOW.md](./SITE-WORKFLOW.md)，制作与验收前必须读取。该流程包含 SEOScout 实际采集、内容比较与补齐，以及用户最终确认的左侧 160×600 窄栏方案。下文广告关闭状态为框架初始化设置；用户站点的最终配置按该流程执行。
+Source: I:/游戏站/make-viral-candy. GitHub: https://github.com/baconwisdom-crypto/make-viral-candy-guide, production branch main. Cloudflare Pages builds every production Git push with npm run verify and publishes out. Node is fixed to 22.18.0. pages.dev responses are noindex; the custom production domain is indexable.
 
-这是可用于新游戏站的框架源项目。它基于已有共享框架，加入经独立预览验证的六种任务页面骨架，并保留品牌图标、语言路由、SEO、来源管理和传统文章模式。原框架保留。
+Seven routes cover the first batch, candy quality, supplies, recipes, code status and site scope. Thirteen unique video screenshots have tracked text bindings in content/video-evidence.json. The community recording is a qualified visual identity match; exact Place linkage and numerical game details remain limited. Original media and research stay outside Git. The official store was used to verify pass descriptions; no purchase or personal playtest is claimed.
+
+Run npm ci in an independent clean checkout, then npm run verify. For local static preview use npm start -- --port 4197. This workstation temporarily uses a shared node_modules junction, which must not be modified, and GAME_GUIDE_LOCAL_DEPENDENCY_ROOT=I:/游戏站 for local builds. CI installs independent dependencies and uses the default root.
+
+GA4 is enabled with G-9C2YHKVFBE. Ads remain disabled until the exact domain has a complete Social-category bundle. Production has no empty advertising rail. The intended desktop rail is 160x600 with 192px reserved at 1280x700 and larger. All formal acceptance evidence and current external blockers are recorded locally in research/RELEASE-STATUS.md.
+
+Read SITE-WORKFLOW.md before future work. The inherited V2 framework documentation follows.
 
 ## 已包含的结构
 
