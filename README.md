@@ -8,7 +8,7 @@ Seven routes cover the first batch, candy quality, supplies, recipes, code statu
 
 Run npm ci in an independent clean checkout, then npm run verify. For local static preview use npm start -- --port 4197. This workstation temporarily uses a shared node_modules junction, which must not be modified, and GAME_GUIDE_LOCAL_DEPENDENCY_ROOT=I:/游戏站 for local builds. CI installs independent dependencies and uses the default root.
 
-GA4 is enabled with G-9C2YHKVFBE. Ads remain disabled until the exact domain has a complete Social-category bundle. Production has no empty advertising rail. The intended desktop rail is 160x600 with 192px reserved at 1280x700 and larger. All formal acceptance evidence and current external blockers are recorded locally in research/RELEASE-STATUS.md.
+GA4 is enabled with G-9C2YHKVFBE. Five Active Adsterra units for the exact domain were verified under Social and integrated. Requests are gated by the live hostname, screen size and container width. The intended desktop rail is 160x600 with 192px reserved at 1280x700 and larger. All formal acceptance evidence and current external blockers are recorded locally in research/RELEASE-STATUS.md.
 
 Read SITE-WORKFLOW.md before future work. The inherited V2 framework documentation follows.
 

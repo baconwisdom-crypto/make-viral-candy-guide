@@ -1,0 +1,46 @@
+{
+  "domain": "makeviralcandy.wiki",
+  "category": "Social",
+  "complete": true,
+  "websiteId": "6166743",
+  "units": [
+    {
+      "format": "native",
+      "unitId": "32032743",
+      "status": "Active",
+      "raw": "<script async=\"async\" data-cfasync=\"false\" src=\"https://bicea.org/21/3e24cdaa726ec2230c8136c796be5e53\"></script>\n<div id=\"container-3e24cdaa726ec2230c8136c796be5e53\"></div>"
+    },
+    {
+      "format": "300x250",
+      "unitId": "32033599",
+      "status": "Active",
+      "width": 300,
+      "height": 250,
+      "raw": "<script>\n  atOptions = {\n    'key' : '9aa69c8c22c972ba613c7bc6ee7d9c41',\n    'format' : 'iframe',\n    'height' : 250,\n    'width' : 300,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bicea.org/22/9aa69c8c22c972ba613c7bc6ee7d9c41\"></script>"
+    },
+    {
+      "format": "728x90",
+      "unitId": "32033600",
+      "status": "Active",
+      "width": 728,
+      "height": 90,
+      "raw": "<script>\n  atOptions = {\n    'key' : '3f4b4b3d2aa8a14afd995f21b8bcac2f',\n    'format' : 'iframe',\n    'height' : 90,\n    'width' : 728,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bicea.org/22/3f4b4b3d2aa8a14afd995f21b8bcac2f\"></script>"
+    },
+    {
+      "format": "320x50",
+      "unitId": "32033601",
+      "status": "Active",
+      "width": 320,
+      "height": 50,
+      "raw": "<script>\n  atOptions = {\n    'key' : '951d3932e7809c9a4017f85557ee3de2',\n    'format' : 'iframe',\n    'height' : 50,\n    'width' : 320,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bicea.org/22/951d3932e7809c9a4017f85557ee3de2\"></script>"
+    },
+    {
+      "format": "160x600",
+      "unitId": "32033602",
+      "status": "Active",
+      "width": 160,
+      "height": 600,
+      "raw": "<script>\n  atOptions = {\n    'key' : '8802e1b15c5ca643f34a81297f23abb7',\n    'format' : 'iframe',\n    'height' : 600,\n    'width' : 160,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bicea.org/22/8802e1b15c5ca643f34a81297f23abb7\"></script>"
+    }
+  ]
+}

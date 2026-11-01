@@ -77,16 +77,17 @@ export const siteConfig: SiteConfig = {
     measurementId: "G-9C2YHKVFBE"
   },
   ads: {
-    enabled: false,
+    enabled: true,
+    provider: "adsterra",
     previewPlaceholders: false,
     desktopChrome: {
       enabled: true
     },
     placements: {
-      "top-sticky": false,
+      "top-sticky": true,
       "left-sticky": true,
-      "home-banner": false,
-      "article-banner": false,
+      "home-banner": true,
+      "article-banner": true,
       "sidebar-square": false
     }
   },
