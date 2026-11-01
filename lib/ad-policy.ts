@@ -13,9 +13,9 @@ export function isAdBundleReady(bundle: AdBundle, hostname: string) {
   });
 }
 export function selectAdFormat(format: string, width: number, desktop: boolean): AdFormat | null {
-  if (format === "home-banner") return width >= 728 ? "728x90" : width >= 300 ? "300x250" : null;
+  if (format === "home-banner") return width + 0.5 >= 728 ? "728x90" : width + 0.5 >= 300 ? "300x250" : null;
   if (format === "vertical-rail") return desktop ? "160x600" : null;
-  if (format === "top-sticky") return width >= 320 ? "320x50" : null;
-  if (format === "sidebar-square") return width >= 300 ? "300x250" : null;
-  return width >= 728 ? "728x90" : width >= 320 ? "320x50" : width >= 300 ? "300x250" : null;
+  if (format === "top-sticky") return width + 0.5 >= 320 ? "320x50" : null;
+  if (format === "sidebar-square") return width + 0.5 >= 300 ? "300x250" : null;
+  return width + 0.5 >= 728 ? "728x90" : width + 0.5 >= 320 ? "320x50" : width + 0.5 >= 300 ? "300x250" : null;
 }

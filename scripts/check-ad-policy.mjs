@@ -15,4 +15,6 @@ assert.equal(selectAdFormat("top-sticky", 320, false), "320x50");
 assert.equal(selectAdFormat("home-banner", 273, false), null);
 assert.equal(selectAdFormat("home-banner", 343, false), "300x250");
 assert.equal(selectAdFormat("home-banner", 728, true), "728x90");
+assert.equal(selectAdFormat("home-banner", 727.99, true), "728x90");
+assert.equal(selectAdFormat("top-sticky", 319.99, true), "320x50");
 console.log("Ad domain, complete bundle and responsive request policy passed.");
