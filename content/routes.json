@@ -1,0 +1,44 @@
+[
+  {
+    "route": "/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/getting-started/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/perfect-candy/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/sugar-and-shop-growth/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/guides/fruit-skewers-and-recipes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/codes/",
+    "locales": [
+      "en"
+    ]
+  },
+  {
+    "route": "/about/",
+    "locales": [
+      "en"
+    ]
+  }
+]

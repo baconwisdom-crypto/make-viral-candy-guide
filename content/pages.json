@@ -1,0 +1,1169 @@
+[
+  {
+    "page_id": "home",
+    "route": "/",
+    "section": "Handbook",
+    "title": {
+      "en": "Make Viral Candy! Wiki: Gameplay and Progression Guides"
+    },
+    "description": {
+      "en": "Make candy by hand, match the design and grow your roadside shop into a seven-zone Candy Palace."
+    },
+    "pageType": "Home",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Make candy by hand, match the design and grow your roadside shop into a seven-zone Candy Palace."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "Start at the cooking counter: add and melt sugar, fill the tray, knead and pull the candy, build the requested picture, then wrap, stretch and cut. Keep your sugar bin supplied between orders. Leveling unlocks more recipes; shop expansion builds toward seven zones."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "loop",
+        "title": {
+          "en": "Plan your next session"
+        },
+        "paragraphs": [
+          {
+            "en": "For your first batch, open Getting Started. For a low result, use the quality guide to check the stirring meter, tray coverage and picture grid. For an idle shop, check the sugar supply and delivery loop."
+          },
+          {
+            "en": "The recipe guide covers fruit selection, syrup controls and the recorded seasonal carving. Exact unlock levels and complete expansion prices remain unverified. The codes page records the current official-description check without claiming tested rewards."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "home-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "perfect",
+      "supply"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Overview"
+      },
+      "order": 0
+    },
+    "primaryAction": {
+      "label": {
+        "en": "Start your first session"
+      },
+      "pageId": "start"
+    }
+  },
+  {
+    "page_id": "start",
+    "route": "/guides/getting-started/",
+    "section": "Handbook",
+    "title": {
+      "en": "Getting Started: Make Your First Candy"
+    },
+    "description": {
+      "en": "Follow the developer’s candy-making sequence and check the finished design before expanding."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Follow the developer’s candy-making sequence and check the finished design before expanding."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The official sequence begins with melting sugar, stirring and pouring it out. The reviewed gameplay shows ADD SUGAR, MELT THE SUGAR and FILL THE TRAY prompts at the counter."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "sugar",
+        "title": {
+          "en": "1. Add, melt and pour the sugar"
+        },
+        "paragraphs": [
+          {
+            "en": "The official sequence begins with melting sugar, stirring and pouring it out. The reviewed gameplay shows ADD SUGAR, MELT THE SUGAR and FILL THE TRAY prompts at the counter."
+          },
+          {
+            "en": "At the melting stage, a stir-speed meter labels slow, a green sweet spot and fast. Keep your input in the marked target region and watch the quality feedback. Device prompts can differ from the recorded mobile interface."
+          }
+        ],
+        "imageIds": [
+          "start-sugar-40"
+        ]
+      },
+      {
+        "id": "color",
+        "title": {
+          "en": "2. Knead and pull the candy"
+        },
+        "paragraphs": [
+          {
+            "en": "The developer describes kneading in a color and pulling the candy on a hook. The recording shows colored portions beside the work surface and a KNEAD IT prompt."
+          },
+          {
+            "en": "Follow the current hand cue through the preparation stages. Wait for the next instruction before trying the design step; the game breaks the process into separate tasks."
+          }
+        ],
+        "imageIds": [
+          "start-color-80"
+        ]
+      },
+      {
+        "id": "picture",
+        "title": {
+          "en": "3. Build the picture inside"
+        },
+        "paragraphs": [
+          {
+            "en": "The design stage shows a circular grid, a color palette and a target pattern. Choose a color, then fill the matching cells. The recording later shows a WRAP IT control."
+          },
+          {
+            "en": "Compare the completed grid with the requested picture before advancing. The developer ties matching the picture to PERFECT pay, but the exact scoring formula is not published in the checked description."
+          }
+        ],
+        "imageIds": [
+          "start-picture-100"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": {
+          "en": "4. Roll, stretch and cut"
+        },
+        "paragraphs": [
+          {
+            "en": "The official loop ends with rolling, stretching and chopping. A recorded CUT IN HALF prompt marks a line across the candy rope; follow the shown line and continue until the result screen appears."
+          },
+          {
+            "en": "Read the report card to see how the batch performed. A result below perfect gives you a reason to review the pattern and earlier stage feedback on the next order."
+          }
+        ],
+        "imageIds": [
+          "start-finish-140"
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "start-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "start-sugar-40",
+        "src": "/images/video-n8NT_6ZFnuY-40.webp",
+        "alt": {
+          "en": "Sugar bag beside the pot and the ADD SUGAR prompt"
+        },
+        "caption": {
+          "en": "Add sugar at the counter 00:00:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=40s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:00:40"
+      },
+      {
+        "id": "start-color-80",
+        "src": "/images/video-n8NT_6ZFnuY-80.webp",
+        "alt": {
+          "en": "2. Knead and pull the candy in recorded gameplay"
+        },
+        "caption": {
+          "en": "2. Knead and pull the candy 00:01:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=80s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:01:20"
+      },
+      {
+        "id": "start-picture-100",
+        "src": "/images/video-n8NT_6ZFnuY-100.webp",
+        "alt": {
+          "en": "3. Build the picture inside in recorded gameplay"
+        },
+        "caption": {
+          "en": "3. Build the picture inside 00:01:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=100s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:01:40"
+      },
+      {
+        "id": "start-finish-140",
+        "src": "/images/video-n8NT_6ZFnuY-140.webp",
+        "alt": {
+          "en": "4. Roll, stretch and cut in recorded gameplay"
+        },
+        "caption": {
+          "en": "4. Roll, stretch and cut 00:02:20"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=140s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:02:20"
+      }
+    ],
+    "relatedPageIds": [
+      "perfect",
+      "supply",
+      "recipes"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Start Here"
+      },
+      "order": 1
+    }
+  },
+  {
+    "page_id": "perfect",
+    "route": "/guides/perfect-candy/",
+    "section": "Handbook",
+    "title": {
+      "en": "How to Improve Candy Quality"
+    },
+    "description": {
+      "en": "Use the target pattern and stage feedback to improve your next batch."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Use the target pattern and stage feedback to improve your next batch."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The recorded melting screen explicitly asks the player to stir in the green. Quality is shown alongside the meter, so watch both while controlling the stirring speed."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "stir",
+        "title": {
+          "en": "Keep the stirring meter in its target region"
+        },
+        "paragraphs": [
+          {
+            "en": "The recorded melting screen explicitly asks the player to stir in the green. Quality is shown alongside the meter, so watch both while controlling the stirring speed."
+          },
+          {
+            "en": "If the indicator is too far toward FAST or SLOW, adjust the input until it returns to the green region. The exact score loss per mistake is not established by the reviewed recording."
+          }
+        ],
+        "imageIds": [
+          "perfect-stir-180"
+        ]
+      },
+      {
+        "id": "fill",
+        "title": {
+          "en": "Fill the tray before moving on"
+        },
+        "paragraphs": [
+          {
+            "en": "The pouring stage displays FILL THE TRAY and a percentage. A later recording prompt says fill the corners. Use the visible empty areas and percentage as feedback while spreading the syrup."
+          },
+          {
+            "en": "A partially filled tray frame shows an intermediate state, not a finished score. Continue according to the current prompt instead of copying the pictured percentage as a target."
+          }
+        ],
+        "imageIds": [
+          "perfect-fill-420"
+        ]
+      },
+      {
+        "id": "match",
+        "title": {
+          "en": "Match the requested design cell by cell"
+        },
+        "paragraphs": [
+          {
+            "en": "The picture grid uses colored cells and a limited palette. Check the outline, the main color and small interior details before wrapping. It is easier to inspect these while the grid is still open."
+          },
+          {
+            "en": "The official description promises PERFECT pay for a matching picture. No checked source gives a universal tolerance, so this guide does not claim that a specific number of wrong cells is acceptable."
+          }
+        ],
+        "imageIds": [
+          "perfect-match-120"
+        ]
+      },
+      {
+        "id": "report",
+        "title": {
+          "en": "Read the report card after the batch"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed result screen shows a Balloon design with an overall 88% and a Great Job message. It also shows a new Index entry and a tip. This demonstrates a useful end-of-batch feedback screen."
+          },
+          {
+            "en": "Use your own report card to compare attempts. That recorded payout is not a universal Balloon reward, and the site has not personally tested the minigame."
+          }
+        ],
+        "imageIds": [
+          "perfect-report-155"
+        ]
+      },
+      {
+        "id": "cash",
+        "title": {
+          "en": "Separate quality feedback from cash multipliers"
+        },
+        "paragraphs": [
+          {
+            "en": "The official cash ladder descriptions advertise 2x, 4x, 8x and 16x cash across candy, tips, shops and workers. They do not say that these passes improve the picture match or the stirring quality score. Diagnose a weak report card from the minigame feedback first."
+          },
+          {
+            "en": "The 2x Sugar Stars description states a cash bonus of +2% per star instead of +1%. Star locations and a complete collection route remain unverified, so this guide does not promise a total bonus or a fastest route."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community",
+      "official-store"
+    ],
+    "evidence": [
+      {
+        "id": "perfect-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "perfect-stir-180",
+        "src": "/images/video-n8NT_6ZFnuY-180.webp",
+        "alt": {
+          "en": "Keep the stirring meter in its target region in recorded gameplay"
+        },
+        "caption": {
+          "en": "Keep the stirring meter in its target region 00:03:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=180s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:03:00"
+      },
+      {
+        "id": "perfect-fill-420",
+        "src": "/images/video-n8NT_6ZFnuY-420.webp",
+        "alt": {
+          "en": "Fill the tray before moving on in recorded gameplay"
+        },
+        "caption": {
+          "en": "Fill the tray before moving on 00:07:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=420s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:07:00"
+      },
+      {
+        "id": "perfect-match-120",
+        "src": "/images/video-n8NT_6ZFnuY-120.webp",
+        "alt": {
+          "en": "Match the requested design cell by cell in recorded gameplay"
+        },
+        "caption": {
+          "en": "Match the requested design cell by cell 00:02:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=120s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:02:00"
+      },
+      {
+        "id": "perfect-report-155",
+        "src": "/images/video-n8NT_6ZFnuY-155.webp",
+        "alt": {
+          "en": "Read the report card after the batch in recorded gameplay"
+        },
+        "caption": {
+          "en": "Read the report card after the batch 00:02:35"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=155s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:02:35"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "supply",
+      "recipes"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "How to Improve Candy Quality"
+      },
+      "order": 2
+    }
+  },
+  {
+    "page_id": "supply",
+    "route": "/guides/sugar-and-shop-growth/",
+    "section": "Handbook",
+    "title": {
+      "en": "Sugar Deliveries and Shop Growth"
+    },
+    "description": {
+      "en": "Keep supplies available, finish orders and distinguish XP unlocks from shop expansion."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Keep supplies available, finish orders and distinguish XP unlocks from shop expansion."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The developer explicitly describes ordering sugar trucks and carrying the delivered crates to the bin. The reviewed shop view shows a supply counter and an ORDER button."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "delivery",
+        "title": {
+          "en": "Order sugar and carry the crates to the bin"
+        },
+        "paragraphs": [
+          {
+            "en": "The developer explicitly describes ordering sugar trucks and carrying the delivered crates to the bin. The reviewed shop view shows a supply counter and an ORDER button."
+          },
+          {
+            "en": "Check the current stock before beginning another batch. After a delivery, complete the carry-to-bin step and verify that the stock counter increases. The exact truck interval and crate capacity need a current in-game check."
+          }
+        ],
+        "imageIds": [
+          "supply-delivery-30"
+        ]
+      },
+      {
+        "id": "orders",
+        "title": {
+          "en": "Read the customer order before accepting"
+        },
+        "paragraphs": [
+          {
+            "en": "The shop footage shows customer offers with ACCEPT and DECLINE controls. A level and XP bar sits across the top of the screen, separate from the sugar counter."
+          },
+          {
+            "en": "Read the requested design and offered amount before accepting. The current recording does not establish penalties for declined orders, so this guide does not claim that every offer must be accepted."
+          }
+        ],
+        "imageIds": [
+          "supply-orders-270"
+        ]
+      },
+      {
+        "id": "expand",
+        "title": {
+          "en": "Build toward the Candy Palace"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description specifies seven zones and a throne at the Candy Palace. It also says Roblox friends can appear as customers and work in your shop."
+          },
+          {
+            "en": "Use the next available expansion requirement in your own plot as the progression checkpoint. The complete pad-price list and all seven zone names are still unverified. The screenshots show an early shop, not a completed Palace."
+          }
+        ]
+      },
+      {
+        "id": "tools",
+        "title": {
+          "en": "Match supply tools to the bottleneck"
+        },
+        "paragraphs": [
+          {
+            "en": "The official Bigger Sugar Bin pass description says the dock holds two extra crates and the bin holds one additional pack of your largest size. Express Trucks says deliveries arrive twice as fast and allows one extra truck to be on the way. These address different supply limits: storage capacity and delivery speed."
+          },
+          {
+            "en": "Sugar-Free Workers says workers never consume sugar. This does not establish free ingredients for your own manual candy batches. Keep checking your bin when making candy yourself. The stated benefits come from the developer’s store descriptions; this site has not tested the passes."
+          },
+          {
+            "en": "Before considering a pass, finish the ordinary order, delivery and carry-to-bin loop. Check whether the immediate problem is an empty bin, crates waiting to be carried, or a truck still traveling. Current delivery times, ordinary crate sizes and a guaranteed payback calculation remain unverified."
+          }
+        ]
+      },
+      {
+        "id": "management",
+        "title": {
+          "en": "Know what remote management actually changes"
+        },
+        "paragraphs": [
+          {
+            "en": "The official Manage pass description promises a window listing owned workers and shops with income, plus worker upgrades from anywhere. Buy Anywhere adds a BUY NEXT button for purchasing the next pad remotely. Batch Upgrade buys up to five worker levels per press, with each level paid at its own price."
+          },
+          {
+            "en": "These descriptions support convenience features. They do not establish which worker is the best investment or the cost of your next pad. Read the current requirement and price in your own plot before spending. The full worker income and upgrade table still needs direct verification."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community",
+      "official-store"
+    ],
+    "evidence": [
+      {
+        "id": "supply-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "supply-delivery-30",
+        "src": "/images/video-n8NT_6ZFnuY-30.webp",
+        "alt": {
+          "en": "Order sugar and carry the crates to the bin in recorded gameplay"
+        },
+        "caption": {
+          "en": "Order sugar and carry the crates to the bin 00:00:30"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=30s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:00:30"
+      },
+      {
+        "id": "supply-orders-270",
+        "src": "/images/video-n8NT_6ZFnuY-270.webp",
+        "alt": {
+          "en": "Read the customer order before accepting in recorded gameplay"
+        },
+        "caption": {
+          "en": "Read the customer order before accepting 00:04:30"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=270s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:04:30"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "perfect",
+      "recipes"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Sugar Deliveries and Shop Growth"
+      },
+      "order": 3
+    }
+  },
+  {
+    "page_id": "recipes",
+    "route": "/guides/fruit-skewers-and-recipes/",
+    "section": "Handbook",
+    "title": {
+      "en": "Fruit Skewers and Recipe Unlocks"
+    },
+    "description": {
+      "en": "Recognize the unlocked recipe workflow and keep current levels separate from recorded examples."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Recognize the unlocked recipe workflow and keep current levels separate from recorded examples."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The developer names Fruit Skewers and Cotton Candy Art as level unlocks. XP and a level counter are visible in the reviewed shop footage."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "unlock",
+        "title": {
+          "en": "Level up to unlock more candy types"
+        },
+        "paragraphs": [
+          {
+            "en": "The developer names Fruit Skewers and Cotton Candy Art as level unlocks. XP and a level counter are visible in the reviewed shop footage."
+          },
+          {
+            "en": "Keep completing available orders and inspect the recipe selection when your level increases. The official description does not give the exact unlock level for each recipe, and this guide does not infer it from an edited video."
+          }
+        ]
+      },
+      {
+        "id": "skewer",
+        "title": {
+          "en": "Match the fruit order on the skewer"
+        },
+        "paragraphs": [
+          {
+            "en": "The reviewed Fruit Skewer stage shows a target sequence at the top right and fruit choices below. Select fruits in the requested order and check the skewer against the target as it fills."
+          },
+          {
+            "en": "The visible options include banana, grapes, strawberry and kiwi in the localized interface. Use the icons and the live recipe request when labels differ between languages."
+          }
+        ],
+        "imageIds": [
+          "recipes-skewer-480"
+        ]
+      },
+      {
+        "id": "syrup",
+        "title": {
+          "en": "Cook and set the coating"
+        },
+        "paragraphs": [
+          {
+            "en": "A syrup stage shows a thermometer and heat control. Later footage shows a SHINY AND SET stage with the coated fruit skewer. Follow the stage feedback rather than assuming that maximum heat is always best."
+          },
+          {
+            "en": "The recording supplies the interface and sequence, but no verified temperature or timing table. Read the current target on the thermometer and wait for the instruction to advance."
+          }
+        ],
+        "imageIds": [
+          "recipes-syrup-570"
+        ]
+      },
+      {
+        "id": "seasonal",
+        "title": {
+          "en": "Seasonal carving appears in the reviewed version"
+        },
+        "paragraphs": [
+          {
+            "en": "The October 31 recording includes pumpkin carving with a trace outline and a shiny candy coating stage. Official promotional art checked for this game also features a coated jack-o-lantern."
+          },
+          {
+            "en": "This is version-specific material. The current availability, unlock conditions and rewards of the seasonal recipe need a live menu check. Cotton Candy Art is officially advertised, but a matching complete walkthrough has not yet been reviewed."
+          }
+        ],
+        "imageIds": [
+          "recipes-seasonal-700"
+        ]
+      },
+      {
+        "id": "secret",
+        "title": {
+          "en": "Separate level unlocks from Secret Recipes"
+        },
+        "paragraphs": [
+          {
+            "en": "The official description names Fruit Skewers and Cotton Candy Art as level unlocks. The separate Secret Recipes pass advertises three exclusive designs: Ruby Crown skewer, Cosmic Kitty cloud and Crystal Jack pumpkin. Those are the named pass designs; the pass description does not replace the ordinary leveling requirements."
+          },
+          {
+            "en": "The official 2x XP pass says every candy gives double XP and advertises faster recipe and design unlocks. The required XP thresholds remain unverified. Check the locked recipe’s requirement in your current menu before treating a purchase as immediate access."
+          },
+          {
+            "en": "The Every Pass description explicitly starts the cash ladder at 2x Cash. It should not be read as a promise of an immediate 16x cash multiplier. Read the exact bundle description and current purchase screen when comparing options."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community",
+      "official-store"
+    ],
+    "evidence": [
+      {
+        "id": "recipes-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [
+      {
+        "id": "recipes-skewer-480",
+        "src": "/images/video-n8NT_6ZFnuY-480.webp",
+        "alt": {
+          "en": "Match the fruit order on the skewer in recorded gameplay"
+        },
+        "caption": {
+          "en": "Match the fruit order on the skewer 00:08:00"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=480s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:08:00"
+      },
+      {
+        "id": "recipes-syrup-570",
+        "src": "/images/video-n8NT_6ZFnuY-570.webp",
+        "alt": {
+          "en": "Cook and set the coating in recorded gameplay"
+        },
+        "caption": {
+          "en": "Cook and set the coating 00:09:30"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=570s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:09:30"
+      },
+      {
+        "id": "recipes-seasonal-700",
+        "src": "/images/video-n8NT_6ZFnuY-700.webp",
+        "alt": {
+          "en": "Seasonal carving appears in the reviewed version in recorded gameplay"
+        },
+        "caption": {
+          "en": "Seasonal carving appears in the reviewed version 00:11:40"
+        },
+        "ratio": "video",
+        "sourceId": "video-n8NT_6ZFnuY",
+        "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=700s",
+        "videoId": "n8NT_6ZFnuY",
+        "timecode": "00:11:40"
+      }
+    ],
+    "relatedPageIds": [
+      "start",
+      "perfect",
+      "supply"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Fruit Skewers and Recipe Unlocks"
+      },
+      "order": 4
+    }
+  },
+  {
+    "page_id": "codes",
+    "route": "/codes/",
+    "section": "Handbook",
+    "title": {
+      "en": "Make Viral Candy! Codes: Current Verification Status"
+    },
+    "description": {
+      "en": "What the official description currently lists, and what remains unconfirmed."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "What the official description currently lists, and what remains unconfirmed."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "The official Roblox description checked November 1, 2026 contains no redeemable codes. That observation does not prove that a code system is absent from the game."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "status",
+        "title": {
+          "en": "No codes in the checked official description"
+        },
+        "paragraphs": [
+          {
+            "en": "The official Roblox description checked November 1, 2026 contains no redeemable codes. That observation does not prove that a code system is absent from the game."
+          },
+          {
+            "en": "No code has been redeemed by this site. We have not verified a complete code-entry interface, a current reward amount or an expiry date. Avoid copying codes from similarly named games."
+          }
+        ]
+      },
+      {
+        "id": "check",
+        "title": {
+          "en": "Where to check for an update"
+        },
+        "paragraphs": [
+          {
+            "en": "Use the exact Roblox game and developer community linked at the bottom of this page. A future code listing should include its spelling, stated reward and publication date."
+          },
+          {
+            "en": "If the game presents a redemption control, read its current instructions and record the actual response. This page will distinguish developer-listed codes from personally tested redemption results."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "codes-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "perfect",
+      "supply"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "Codes"
+      },
+      "order": 5
+    }
+  },
+  {
+    "page_id": "about",
+    "route": "/about/",
+    "section": "Handbook",
+    "title": {
+      "en": "About This Make Viral Candy! Guide"
+    },
+    "description": {
+      "en": "Game identity, evidence scope and site privacy."
+    },
+    "pageType": "GuideArticle",
+    "pageStatus": {
+      "en": "Checked November 1, 2026"
+    },
+    "intro": {
+      "en": "Game identity, evidence scope and site privacy."
+    },
+    "quickAnswer": {
+      "title": {
+        "en": "Quick answer"
+      },
+      "body": {
+        "en": "This independent fan guide covers Make Viral Candy! by Quez Clan. Universe ID: 10771800287. Root Place ID: 92696280499166. These identifiers were checked against Roblox’s official API on November 1, 2026."
+      },
+      "status": {
+        "en": "Official details and reviewed gameplay"
+      }
+    },
+    "sections": [
+      {
+        "id": "identity",
+        "title": {
+          "en": "The game covered here"
+        },
+        "paragraphs": [
+          {
+            "en": "This independent fan guide covers Make Viral Candy! by Quez Clan. Universe ID: 10771800287. Root Place ID: 92696280499166. These identifiers were checked against Roblox’s official API on November 1, 2026."
+          }
+        ]
+      },
+      {
+        "id": "research",
+        "title": {
+          "en": "How the material is checked"
+        },
+        "paragraphs": [
+          {
+            "en": "Official game and store descriptions establish advertised systems and pass benefits. Community footage illustrates the visible controls. Its candy-making sequence, fruit-skewer stage and coated pumpkin agree with the official material. The recording has no direct Place link, so its identity is a qualified visual match. Unsupported prices, unlock levels and scoring formulas remain unknown."
+          },
+          {
+            "en": "This site uses Google Analytics 4 to measure page visits and navigation. Google may process device and usage information through cookies or similar technologies. Browser privacy controls can limit tracking. There is no player account or comment form on this guide. Advertising codes are not currently enabled. Use the official developer community for account or purchase support."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "boundary": {
+      "title": {
+        "en": "Version notes"
+      },
+      "items": [
+        {
+          "en": "Recorded gameplay is community footage. Menus, prices and rewards may change. This site does not claim personal playtesting."
+        }
+      ]
+    },
+    "sourceIds": [
+      "official-game",
+      "official-community"
+    ],
+    "evidence": [
+      {
+        "id": "about-scope",
+        "statement": {
+          "en": "Game identity and advertised features checked against the official description. Gameplay details are qualified where based on a recording."
+        },
+        "sourceId": "official-game",
+        "evidenceType": {
+          "en": "Official description"
+        },
+        "verificationStatus": {
+          "en": "Checked November 1, 2026"
+        },
+        "spoilerLevel": {
+          "en": "Gameplay details"
+        }
+      }
+    ],
+    "spoilerLevel": {
+      "en": "Gameplay details"
+    },
+    "images": [],
+    "relatedPageIds": [
+      "start",
+      "perfect",
+      "supply"
+    ],
+    "localeAvailability": [
+      "en"
+    ],
+    "publicationStatus": "published",
+    "navigation": {
+      "label": {
+        "en": "About"
+      },
+      "order": 6
+    }
+  }
+]

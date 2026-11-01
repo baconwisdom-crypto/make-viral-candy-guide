@@ -1,0 +1,171 @@
+[
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-40.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=40s",
+    "timecode": "00:00:40",
+    "text_block_id": "start.sugar",
+    "fact_ids": [
+      "start-sugar"
+    ],
+    "shot_ids": [
+      "start-sugar-40"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-80.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=80s",
+    "timecode": "00:01:20",
+    "text_block_id": "start.color",
+    "fact_ids": [
+      "start-color"
+    ],
+    "shot_ids": [
+      "start-color-80"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-100.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=100s",
+    "timecode": "00:01:40",
+    "text_block_id": "start.picture",
+    "fact_ids": [
+      "start-picture"
+    ],
+    "shot_ids": [
+      "start-picture-100"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-140.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=140s",
+    "timecode": "00:02:20",
+    "text_block_id": "start.finish",
+    "fact_ids": [
+      "start-finish"
+    ],
+    "shot_ids": [
+      "start-finish-140"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-180.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=180s",
+    "timecode": "00:03:00",
+    "text_block_id": "perfect.stir",
+    "fact_ids": [
+      "perfect-stir"
+    ],
+    "shot_ids": [
+      "perfect-stir-180"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-420.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=420s",
+    "timecode": "00:07:00",
+    "text_block_id": "perfect.fill",
+    "fact_ids": [
+      "perfect-fill"
+    ],
+    "shot_ids": [
+      "perfect-fill-420"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-120.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=120s",
+    "timecode": "00:02:00",
+    "text_block_id": "perfect.match",
+    "fact_ids": [
+      "perfect-match"
+    ],
+    "shot_ids": [
+      "perfect-match-120"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-155.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=155s",
+    "timecode": "00:02:35",
+    "text_block_id": "perfect.report",
+    "fact_ids": [
+      "perfect-report"
+    ],
+    "shot_ids": [
+      "perfect-report-155"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-30.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=30s",
+    "timecode": "00:00:30",
+    "text_block_id": "supply.delivery",
+    "fact_ids": [
+      "supply-delivery"
+    ],
+    "shot_ids": [
+      "supply-delivery-30"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-270.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=270s",
+    "timecode": "00:04:30",
+    "text_block_id": "supply.orders",
+    "fact_ids": [
+      "supply-orders"
+    ],
+    "shot_ids": [
+      "supply-orders-270"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-480.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=480s",
+    "timecode": "00:08:00",
+    "text_block_id": "recipes.skewer",
+    "fact_ids": [
+      "recipes-skewer"
+    ],
+    "shot_ids": [
+      "recipes-skewer-480"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-570.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=570s",
+    "timecode": "00:09:30",
+    "text_block_id": "recipes.syrup",
+    "fact_ids": [
+      "recipes-syrup"
+    ],
+    "shot_ids": [
+      "recipes-syrup-570"
+    ]
+  },
+  {
+    "asset": "/images/video-n8NT_6ZFnuY-700.webp",
+    "sourceId": "video-n8NT_6ZFnuY",
+    "sourceUrl": "https://www.youtube.com/watch?v=n8NT_6ZFnuY&t=700s",
+    "timecode": "00:11:40",
+    "text_block_id": "recipes.seasonal",
+    "fact_ids": [
+      "recipes-seasonal"
+    ],
+    "shot_ids": [
+      "recipes-seasonal-700"
+    ]
+  }
+]
